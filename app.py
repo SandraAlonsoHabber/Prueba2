@@ -6,3 +6,6 @@ print("nueva rama")
 print("nueva rama 2")
 print("ya estmos en remoto!")
 print("me aceptarán la pull request?") #he actualizado las siglas
+
+#-----------------------------------------------------------------
+print("Esto es una nueva sección")
